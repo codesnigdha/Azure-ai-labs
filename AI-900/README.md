@@ -83,30 +83,34 @@ AI-900/
 │
 ├── 01-get-started-with-microsoft-foundry/
 │   ├── screenshots/
+│   ├── README.md
 │   ├── instructions.md
-│   └── README.md
+│   └── my-learning.md
 │
 ├── 02-generative-ai-and-ai-agents/
 │   ├── code/
 │   │   └── agent_client.py
 │   ├── screenshots/
+│   ├── README.md
 │   ├── instructions.md
-│   └── README.md
+│   └── my-learning.md
 │
 ├── 03-text-analysis/
 │   ├── code/
 │   │   ├── language_detection.py
 │   │   └── pii_recognition.py
 │   ├── screenshots/
+│   ├── README.md
 │   ├── instructions.md
-│   └── README.md
+│   └── my-learning.md
 │
 ├── 04-speech/
 │   ├── code/
 │   │   └── agent_client.py
 │   ├── screenshots/
+│   ├── README.md
 │   ├── instructions.md
-│   └── README.md
+│   └── my-learning.md
 │
 ├── 05-computer-vision/
 │   ├── code/
@@ -116,8 +120,9 @@ AI-900/
 │   ├── image/
 │   │   └── image_01.png
 │   ├── screenshots/
+│   ├── README.md
 │   ├── instructions.md
-│   └── README.md
+│   └── my-learning.md
 │
 ├── 06-information-extraction/
 │   ├── code/
@@ -125,8 +130,9 @@ AI-900/
 │   │   ├── layout_analysis.py
 │   │   └── receipt_analysis.py
 │   ├── screenshots/
+│   ├── README.md
 │   ├── instructions.md
-│   └── README.md
+│   └── my-learning.md
 │
 └── README.md
 ```
