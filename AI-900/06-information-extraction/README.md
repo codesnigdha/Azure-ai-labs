@@ -97,6 +97,7 @@ These examples demonstrate how the Azure Content Understanding Python SDK can be
 │   ├── 04-receipt-analysis.png
 │   └── 05-layout-analysis.png
 │
+├── README.md
 ├── instructions.md
-└── README.md
+└── my-learning.md
 ```

@@ -120,6 +120,7 @@ Keep API keys, endpoints, project identifiers, and other private information hid
 │   ├── 06-video-generation-model.png
 │   └── 07-video-generation.png
 │
+├── README.md
 ├── instructions.md
-└── README.md
+└── my-learning.md
 ```

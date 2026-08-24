@@ -95,6 +95,7 @@ These examples demonstrate how Python can be used to work with Azure Language ca
 │   ├── 04-language-detection.png .png
 │   └── 05-pii-redaction.png
 │
+├── README.md
 ├── instructions.md
-└── README.md
+└── my-learning.md
 ```

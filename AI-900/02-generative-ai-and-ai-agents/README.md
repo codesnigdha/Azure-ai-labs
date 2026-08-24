@@ -95,6 +95,7 @@ The example demonstrates how an application can connect to the configured AI age
 │   ├── 04-web-search.png
 │   └── 05-agent.png
 │
+├── README.md
 ├── instructions.md
-└── README.md
+└── my-learning.md
 ```

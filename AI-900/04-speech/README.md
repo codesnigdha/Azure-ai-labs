@@ -112,6 +112,7 @@ Keep any API keys, endpoints, project identifiers, or other private information 
 │   ├── 05-speech-output-session.png
 │   └── 06-speech-transcript.png
 │
+├── README.md
 ├── instructions.md
-└── README.md
+└── my-learning.md
 ```

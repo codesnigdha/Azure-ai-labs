@@ -110,6 +110,7 @@ No separate screenshot was included for this activity.
 │   ├── 06-computer-vision.png
 │   └── 07-text-analysis.png
 │
+├── README.md
 ├── instructions.md
-└── README.md
+└── my-learning.md
 ```
